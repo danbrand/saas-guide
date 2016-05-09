@@ -9,9 +9,9 @@ class User < ActiveRecord::Base
 
 
 
-   def confirmation_required?
-   	false
-   end
+   #def confirmation_required?
+   	#false
+   #end
 
    private
 
